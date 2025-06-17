@@ -1,0 +1,5 @@
+{
+  "name": "LinguaScribe - Audio/Video Transcriber",
+  "description": "A web application to transcribe audio and video files into text using AI, with a special focus on the Odia language.",
+  "requestFramePermissions": []
+}
