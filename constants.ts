@@ -27,4 +27,4 @@ export const SUPPORTED_LANGUAGES: LanguageOption[] = [
   { value: 'it-IT', label: 'Italian (Italiano)', resultHeading: 'Risultato della Trascrizione:' },
 ];
 
-export const GEMINI_MODEL_NAME = 'gemini-2.5-flash-preview-04-17';
+export const GEMINI_MODEL_NAME = 'gemini-live-2.5-flash-preview';
